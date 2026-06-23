@@ -15,6 +15,8 @@ BIT4138 - Advanced Cryptography
 - Week 3: Randomness Testing
 - Week 4: Stream Cipher Cryptanalysis
 - Week 5: Block Ciphers and Feistel Structure
+- Week 6: Symmetric Ciphers II – Substitution-Permutation Networks (SPN)
+ -  Week 7: Block Cipher Cryptanalysis
 
 ## Author
 
